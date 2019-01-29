@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin-top: 90px;
+ }
+
+h1 {
+  font-size: 70px;
+}
+
+p {
+  font-size: 40px;
+}
